@@ -1,3 +1,6 @@
 [submodule "GyroLib2020"]
 	path = GyroLib2020
 	url = https://github.com/SAXTEN2011/GyroLib2020.git
+[submodule "2pomtom2020"]
+	path = 2pomtom2020
+	url = https://github.com/SAXTEN2011/2pomtom2020.git
