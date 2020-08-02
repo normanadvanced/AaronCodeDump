@@ -1,0 +1,3 @@
+[submodule "GyroLib2020"]
+	path = GyroLib2020
+	url = https://github.com/SAXTEN2011/GyroLib2020.git
